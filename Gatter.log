@@ -1,0 +1,15 @@
+﻿  Farbe.cpp
+  FarbRect.cpp
+  Gatter.cpp
+C:\Users\AcerNitro5\Project\info\opa jdid\PIN2 git__\PIN2_W2019\08_Gatter\Gatter.cpp(6,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\AcerNitro5\Project\info\opa jdid\PIN2 git__\PIN2_W2019\08_Gatter\Gatter.cpp(6,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GatterSchalter.cpp
+  GatterSchaltung.cpp
+  main.cpp
+  Punkt.cpp
+  Schalter.cpp
+  TextBox.cpp
+  Verbindung.cpp
+  WinAdapt.cpp
+  Generating Code...
+  Gatter.vcxproj -> C:\Users\AcerNitro5\source\repos\Gatter\Debug\Gatter.exe
